@@ -1,0 +1,5 @@
+{
+  "name": "IHM Mobile Prototype",
+  "description": "A task and directory management mobile application built as a prototype to demonstrate HCI (Human-Computer Interaction) principles like Nielsen's Heuristics and Bastien & Scapin criteria.",
+  "requestFramePermissions": []
+}
